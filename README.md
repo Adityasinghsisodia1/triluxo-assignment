@@ -68,5 +68,6 @@ This project is licensed under the MIT License.
 👤 Contact
 For any questions or suggestions, feel free to reach out:
 
-Aditya
-GitHub: YourUsername
+Aditya Singh  
+GitHub: [Adityasinghsisodia1](https://github.com/Adityasinghsisodia1)  
+Email: [aditya.singh.sisodia167@gmail.com](mailto:aditya.singh.sisodia167@gmail.com)  
